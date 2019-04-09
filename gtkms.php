@@ -73,10 +73,17 @@ mysqli_close($con);
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width">
 	<meta name="twitter:card" content="summary">
+<<<<<<< HEAD
 	<meta name="twitter:site" content="@itechspirit">
 	<meta name="twitter:creator" content="@itechspirit">
 	<meta name="twitter:url" content="http://sms.ara.la/">
 	<meta name="viewport" content="width=device-width, initial-scale=0.55"/>
+=======
+    <meta name="twitter:site" content="@itechspirit">
+    <meta name="twitter:creator" content="@itechspirit">
+    <meta name="twitter:url" content="http://sms.ara.la/">
+    <meta name="viewport" content="width=device-width, initial-scale=0.55"/>
+>>>>>>> cc4894f9e9cbd6d3fb7f51258937142cd758027a
 	<title>Güvenli ve Tek Kullanımlık Mesaj Sistemi</title>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 	<script>
